@@ -11,7 +11,23 @@ Mention the external libraries your team used (e.g., numpy, sklearn, etc)
 
 ### Libraries used:
 
-* XXX (URL1)
+* numpy
+* pandas
+* matplotlib
+* scikit-learn
+* torch
+* transformers
+* datasets
+* evaluate
+* tqdm
+* nltk
+* gensim
+* scipy
+* xgboost
+* peft
+* huggingface_hub
+* requests
+* google.colab
 
 List the publicly available code(s) you used in your project. Please provide the URL for the code and mention if you modified the code or not. If you modified the code, please mention the number of lines your team modified or added.
 
